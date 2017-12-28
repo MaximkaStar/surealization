@@ -1,0 +1,7 @@
+c:\users\максим\source\repos\surealizatiom\surealizatiom\bin\Debug\surealizatiom.exe.config
+c:\users\максим\source\repos\surealizatiom\surealizatiom\bin\Debug\surealizatiom.exe
+c:\users\максим\source\repos\surealizatiom\surealizatiom\bin\Debug\surealizatiom.pdb
+c:\users\максим\source\repos\surealizatiom\surealizatiom\obj\Debug\surealizatiom.csprojResolveAssemblyReference.cache
+c:\users\максим\source\repos\surealizatiom\surealizatiom\obj\Debug\surealizatiom.csproj.CoreCompileInputs.cache
+c:\users\максим\source\repos\surealizatiom\surealizatiom\obj\Debug\surealizatiom.exe
+c:\users\максим\source\repos\surealizatiom\surealizatiom\obj\Debug\surealizatiom.pdb
